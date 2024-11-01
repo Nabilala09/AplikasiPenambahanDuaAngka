@@ -21,7 +21,7 @@ Aplikasi ini dirancang untuk melakukan operasi penjumlahan sederhana dari dua an
 
 
 ## Installation
-1. Clone repositori ini atau unduh file sumbernya.
+1. Clone repositori ini atau unduh file sumbernya (https://github.com/Nabilala09/AplikasiPenambahanDuaAngka)
 2. Buka proyek di lingkungan pengembangan Java, seperti IntelliJ atau NetBeans.
 3. Jalankan file utama untuk menjalankan aplikasi.
 
