@@ -213,6 +213,10 @@ public class AplikasiPenambahanDuaAngkaFrame extends javax.swing.JFrame {
 
     private void TMasukAngka2FocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_TMasukAngka2FocusGained
             TMasukAngka2.setText("");
+
+    private void BKeluarActionPerformed(java.awt.event.ActionEvent evt) {                                        
+            System.exit(0);
+        }
     }//GEN-LAST:event_TMasukAngka2FocusGained
 
     /**
